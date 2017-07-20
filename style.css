@@ -1,0 +1,28 @@
+body {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+img {
+  width: 50%;
+}
+li {
+  list-style: none;
+}
+ul {
+  border: 5px outset lightgrey;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.fighter {
+  width: 100%;
+  height: 250px;
+}
+.vs {
+  padding-top: 100px;
+}
